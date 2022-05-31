@@ -1,0 +1,30 @@
+* {
+    background-color: black;
+}
+
+.main_title {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    left: 30rem;
+    top: 10rem;
+    color: white;
+}
+
+.main_heading {
+    position: absolute;
+    font-family: 'Roboto' , sans-serif;
+    left: 30rem;
+    top: 13rem;
+    font-size: 1.5rem;
+    color: #ff0000;
+    font-weight: 650;
+    opacity: 0;
+}
+
+.ab_1 {
+    position: relative;
+    font-family: 'Merriweather', serif;
+    color: white;
+    right: -29rem;
+    top: 17rem;
+}
