@@ -1,30 +1,88 @@
 * {
     background-color: black;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
-.main_title {
+.main_pic {
     position: absolute;
-    font-family: 'Roboto', sans-serif;
-    left: 30rem;
-    top: 10rem;
-    color: white;
+    left: 48.5rem;
+    top: 14.5rem;
 }
 
-.main_heading {
+.main_name {
     position: absolute;
-    font-family: 'Roboto' , sans-serif;
-    left: 30rem;
-    top: 13rem;
-    font-size: 1.5rem;
+    left: 115rem;
+    top: 1rem;
     color: #ff0000;
-    font-weight: 650;
-    opacity: 0;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
 }
 
-.ab_1 {
-    position: relative;
-    font-family: 'Merriweather', serif;
+.main_bio {
+    position: absolute;
+    left: 3rem;
+    top: 54.5rem;
     color: white;
-    right: -29rem;
-    top: 17rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+}
+
+.from {
+    position: absolute;
+    left: 3rem;
+    top: 57rem;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+}
+
+.london {
+    position: absolute;
+    left: 7rem;
+    top: 57rem;
+    color: red;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+#discord_logo {
+    position: absolute;
+    left: 100rem;
+    top: 56rem;
+}
+
+#github_logo {
+    position: absolute;
+    left: 106rem;
+    top: 56rem;   
+}
+
+#email_logo {
+    position: absolute;
+    left: 112.5rem;
+    top: 56rem;       
+}
+
+.about {
+    position: absolute;
+    left: 115rem;
+    top: 15rem;
+    transform: rotate(-90deg);
+}
+
+.skills {
+    position: absolute;
+    left: 115.3rem;
+    top: 35rem;
+    transform: rotate(-90deg);    
+}
+
+.projects {
+    position: absolute;
+    left: 114.5rem;
+    top: 25rem;
+    transform: rotate(-90deg);   
 }
