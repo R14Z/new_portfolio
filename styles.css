@@ -86,3 +86,109 @@
     top: 25rem;
     transform: rotate(-90deg);   
 }
+
+.port {
+    position: absolute;
+    left: 19px;
+    top: 13px;
+}
+
+#ts {
+    position: absolute;
+    color: red;
+    font-size: 1.8rem;
+    font-family: 'Roboto', sans-serif;
+    left: 43%;
+    top: 15%;
+}
+
+#python_logo {
+    position: absolute;
+    left: 36%;
+    top: 27%;
+}
+
+#python-text {
+    position: absolute;
+    color: red;
+    left: 40.5%;
+    top: 27.5%;
+    font-size: 1.3rem;
+}
+
+#html_logo {
+    position: absolute;
+    left: 36%; 
+    top: 35.5%;
+}
+
+#html-text {
+    position: absolute;
+    color: red;
+    left: 40.5%;
+    top: 36.5%;
+    font-size: 1.3rem;
+}
+
+#js_logo {
+    position: absolute;
+    left: 35.8%;
+    top: 43.5%;
+}
+
+#js-text {
+    position: absolute;
+    color: red;
+    left: 40.5%;
+    top: 45%;
+    font-size: 1.3rem;
+}
+
+#bootstrap-logo {
+    position: absolute;
+    left: 55%;
+    top: 27%;
+}
+
+#bootstrap-text {
+    position: absolute;
+    color: red;
+    left: 58.5%;
+    top: 27.5%;
+    font-size: 1.3rem;
+}
+
+#css-logo {
+    position: absolute;
+    left: 55%; 
+    top: 35.5%;
+}
+
+#css-text {
+    position: absolute;
+    color: red;
+    left: 59%; 
+    top: 36%; 
+    font-size: 1.5rem;  
+}
+
+#node-logo {
+    position: absolute;
+    left: 55%; 
+    top: 45%;
+}
+
+#node-text {
+    position: absolute;
+    color: red;
+    left: 59%; 
+    top: 45.5%; 
+    font-size: 1.5rem;      
+}
+
+#back {
+    position: absolute;
+    color: red;
+    left: 1%;
+    top: 97%;
+}
